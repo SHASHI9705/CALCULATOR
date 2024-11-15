@@ -1,0 +1,9 @@
+
+Enter your mathematical expression (or type 'exit' to quit): 2+3
+Result: 5
+
+Enter your mathematical expression (or type 'exit' to quit): 3+6*5+9/(99+2)+45+6
+Result: 84.0891089108911
+
+Enter your mathematical expression (or type 'exit' to quit): exit
+Exiting the calculator. Goodbye!
